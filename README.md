@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 AI/ML Projects:</h2>
 
-- <b></b>
+- [BiasLens - End-to-End LLM Pipeline for Vietnamese Generated Text Bias](https://github.com/Ca1edfwlch/biaslens-detect-vietnamese-bias) (Capstone Project)
+  - A [preview](https://huggingface.co/spaces/Caledfwlch/BiasLens) for the detection module is hosted on Hugging Face Space.
 
 
 
