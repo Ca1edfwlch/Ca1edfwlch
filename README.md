@@ -1,7 +1,17 @@
-## Hi there 👋
+<h1>Hi, I'm Long!
+
+<h2>👨‍💻 AI/ML Projects:</h2>
+
+- <b></b>
+
+
+
+
+
+
 
 <!--
-**Ca1edfwlch/Ca1edfwlch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
