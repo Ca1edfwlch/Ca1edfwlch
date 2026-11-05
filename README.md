@@ -7,7 +7,7 @@
 
 <h2>📊 DA Projects:</h2>
 
-- [Victoria Crime Dashboard](https://github.com/Ca1edfwlch/victoria-crime-dashboard)
+- [Victoria Crime Dashboard](https://github.com/Ca1edfwlch/victoria-crime-dashboard) made using R
   - View dashboard [here](https://ca1edfwlch.github.io/victoria-crime-dashboard/)
 
 
