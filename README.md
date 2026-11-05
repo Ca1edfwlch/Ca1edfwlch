@@ -1,10 +1,14 @@
 <h1>Hi, I'm Long!
 
-<h2>👨‍💻 AI/ML Projects:</h2>
+<h2>🧠 AI/ML Projects:</h2>
 
 - [BiasLens - End-to-End LLM Pipeline for Vietnamese Generated Text Bias](https://github.com/Ca1edfwlch/biaslens-detect-vietnamese-bias) (Capstone Project)
-  - A [preview](https://huggingface.co/spaces/Caledfwlch/BiasLens) for the detection module is hosted on Hugging Face Space.
+  - Preview for the detection module is hosted on Hugging Face Space ([Here](https://huggingface.co/spaces/Caledfwlch/BiasLens)).
 
+<h2>📊 DA Projects:</h2>
+
+- [Victoria Crime Dashboard](https://github.com/Ca1edfwlch/victoria-crime-dashboard)
+  - View dashboard [here](https://ca1edfwlch.github.io/victoria-crime-dashboard/)
 
 
 
