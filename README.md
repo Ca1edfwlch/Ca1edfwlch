@@ -4,7 +4,10 @@
 
 - [BiasLens - End-to-End LLM Pipeline for Vietnamese Generated Text Bias](https://github.com/Ca1edfwlch/biaslens-detect-vietnamese-bias) (Capstone Project)
   - Preview for the detection module is hosted on Hugging Face Space ([Here](https://huggingface.co/spaces/Caledfwlch/BiasLens)).
-
+ 
+- [Letter Recognition ML Project](https://github.com/Ca1edfwlch/letter-recognition)
+  - Machine learning model to classify 26 capital letters using the UCI Letter Recognition dataset.
+  
 <h2>📊 DA Projects:</h2>
 
 - [Victoria Crime Dashboard](https://github.com/Ca1edfwlch/victoria-crime-dashboard) made using R
